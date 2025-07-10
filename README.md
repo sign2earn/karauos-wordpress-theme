@@ -1,0 +1,1 @@
+# karauos-wordpress-theme
